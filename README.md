@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aybrea
+- 👋 Hi, I’m Wren Chou
 - 👀 I’m interested in VUE/REACT
 - 💞️ I’m looking to collaborate on FE projects
 - 📫 How to reach me: shildreturn@outlook.com
