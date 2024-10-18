@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Wren Chou
-- 👀 I’m interested in VUE/REACT
+- 👋 Hi, I’m Ethan Zhou
+- 👀 I’m interested in Vue/React
 - 💞️ I’m looking to collaborate on FE projects
 - 📫 How to reach me: shildreturn@outlook.com
 - language: English/Chinese
