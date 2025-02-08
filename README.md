@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ethan Zhou
+- 👋 Hi, I’m Viren Zhou
 - 👀 I’m interested in Vue/React
 - 💞️ I’m looking to collaborate on FE projects
 - 📫 How to reach me: shildreturn@outlook.com
